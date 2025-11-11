@@ -1,4 +1,4 @@
-CVE Flaw Update Script
+# CVE Flaw Update Script
 This script automates the process of updating CVE flaws in OSIDB by:
 Extracting CVE IDs from a text file
 Adding components to each CVE (if not already present)
